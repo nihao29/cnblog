@@ -248,7 +248,7 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://img.blog.httple.net/wxzf.png
+    - img: https://blog.httple.net/wxzf.png
       link:
       text: 微信支付
     - img: https://blog.httple.net/wechat-follow/img/qrcode.png
