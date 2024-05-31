@@ -1,21 +1,15 @@
 ---
 abbrlink: ''
-title: 金山文档实现自动签到
+author: 天亮
 categories:
 - 自动签到
 date: '2023-08-07 12:01:01'
 tags:
 - 签到
 - 金山文档
-updated: '2023-08-07 12:01:01'
-author: 天亮
+title: 金山文档实现自动签到
+updated: '2024-05-31T12:49:50.011+08:00'
 ---
-
-## 安装
-[我的B站视频](https://www.bilibili.com/video/BV18j411r79G/)
-[作者公众号文章](https://mp.weixin.qq.com/s/xgL3O_COHYA-k8OJbWoaSQ)
-## 各平台配置
-[作者公众号文章](https://mp.weixin.qq.com/s/xgL3O_COHYA-k8OJbWoaSQ)
 ## 进阶:自动通知
 
 注意，配置通知一定要在表格里第三列(是否推送（是/否）)填是
@@ -27,6 +21,7 @@ author: 天亮
 这里有bark、pushplus、server酱、邮箱、钉钉、Discord几种通知类型
 
 ### pushplus配置
+
 打开[pushplus官网](http://www.pushplus.plus/)
 ![](https://b2.190823.xyz/2023/08/be195eda568f2b6cfa0320803b193348.png)
 点击登录
@@ -39,11 +34,14 @@ author: 天亮
 ![](https://b2.190823.xyz/2023/08/c6082322920f93ec98dd70a8373a042f.jpg)
 
 ### server酱
+
 登录server酱(不演示了)
 复制token
 ![](https://b2.190823.xyz/2023/08/de6dc91d2104a25f856b0f5fbd73d68d.png)
 然后去表格里填入即可，记住不要取关“方糖”公众号
+
 ### 钉钉
+
 ![](https://b2.190823.xyz/2023/08/7b30a6786caaf07793d754e4978344de.png)
 任意群里选择机器人
 ![](https://b2.190823.xyz/2023/08/30560cb2caf1d57ef2eb34eb962e5620.png)
