@@ -29,13 +29,13 @@ nav:
     - title: 网页
       item:
         - name: 博客
-          link: https://blog.blog.httple.net/
+          link: https://blog.httple.net/
           icon: /img/favicon.ico
-    - title: 项目
-      item:
-        - name: 安知鱼图床
-          link: https://image.blog.httple.net/
-          icon: https://image.blog.httple.net/favicon.ico
+   # - title: 项目
+    #  item:
+      #  - name: 图床
+       #   link: https://image.httple.net/
+       #   icon: https://image.httple.net/favicon.ico
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
