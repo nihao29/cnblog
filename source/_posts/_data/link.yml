@@ -11,15 +11,5 @@
   link_list:
     - name: 天亮了
       link: https://blog.httple.net/
-      avatar: https://img02.blog.httple.net/adminuploads/1/2022/09/15/63232b7d91d22.jpg
-      descr: 知识创造一切
-      siteshot: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/blog.httple.net.jpg
-
-- class_name: 小伙伴
-  class_desc: 那些人，那些事
-  flink_style: butterfly
-  link_list:
-    - name: 天亮哦
-      link: https://blog.httple.net/
-      avatar: https://img02.blog.httple.net/adminuploads/1/2022/09/15/63232b7d91d22.jpg
+      avatar: https://blog.httple.net/sitelogo.png
       descr: 知识创造一切
