@@ -386,7 +386,7 @@ waline:
     locale:
       admin: 天亮
       sofa: 欢迎！
-      placeholder: "宇宙创造一切"
+      placeholder: "我在宇宙中"
     #   reactionTitle: 就现在，表明你的态度！
     #   reaction0: 0
     #   reaction1: 1
@@ -570,7 +570,7 @@ footer:
       source: 1
       # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
       sub:
-         - 宇宙创造一切
+         - 我在宇宙中
 
 # Analysis
 # --------------------------------------
