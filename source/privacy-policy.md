@@ -1,7 +1,7 @@
 ---
 date: '2024-05-31T18:54:59.919601+08:00'
 title: privacy-policy
-updated: '2024-05-31T18:55:00.407+08:00'
+updated: '2024-05-31T18:56:52.313+08:00'
 ---
 # 隐私政策
 
@@ -54,7 +54,6 @@ updated: '2024-05-31T18:55:00.407+08:00'
 
 第三方部分为了抵抗攻击、使用不同节点 cdn 加速等需求会收集不限于以下信息
 
-
 此页面如果未能获取到信息并不代表无法读取上述信息，以实际情况为准。
 
 ## 二、在评论时如何收集和使用你的个人信息
@@ -96,10 +95,6 @@ updated: '2024-05-31T18:55:00.407+08:00'
 * 百度统计
 * 51a 统计
 * busuanzi 统计
-
-关于如何使用你的 Cookies，请访问 [Cookies 政策](https://blog.anheyu.com/cookies/)。
-
-关于如何[在 Chrome 中清除、启用和管理 Cookie](https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=zh-Hans)。
 
 ## 四、如何共享、转让你的个人信息
 
