@@ -37,7 +37,7 @@ nav:
     - title: 项目
       item:
         - name: OurWorld
-          link: https://ourworld.blog.httple.net
+          link: https://blog.httple.net
           icon: /img/ow.png
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
