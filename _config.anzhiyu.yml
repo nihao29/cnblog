@@ -478,7 +478,7 @@ footer:
     launch_time: 04/01/2021 00:00:00 # 网站上线时间
     work_img: https://blog.httple.net/sitelogo.png
     work_description: 嘻嘻
-    offduty_img:  https://blog.httple.net/sitelogo.png
+   # offduty_img:  https://blog.httple.net/sitelogo.png
     offduty_description: 嘻嘻
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
