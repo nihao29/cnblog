@@ -6,7 +6,7 @@ date: '2024-05-31T14:38:31.739689+08:00'
 tags:
 - AI
 title: Nine-AI部署教程
-updated: '2024-05-31T14:38:34.114+08:00'
+updated: '2024-05-31T14:42:00.128+08:00'
 ---
 # Nine-Ai部署教程
 
@@ -44,9 +44,7 @@ SSH信息填写，填写完确定
 
 CODE
 
-
-| `1`<br/> | `if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_panel.sh;else wget -O install_panel.sh https://download.bt.cn/install/install_panel.sh;fi;bash install_panel.sh ed8484bec`<br/> |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+`if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_panel.sh;else wget -O install_panel.sh https://download.bt.cn/install/install_panel.sh;fi;bash install_panel.sh ed8484bec`
 
 centos 安装宝塔脚本
 
