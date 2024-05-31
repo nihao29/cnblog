@@ -417,9 +417,9 @@ footer:
   runtime:
     enable: false
     launch_time: 04/01/2021 00:00:00 # 网站上线时间
-    work_img: https://img.shields.io/badge/天亮了-我在宇宙中-blue?style=flat&labelColor=87CEFA&color=ffffff
+    work_img: https://blog.httple.net/T.png
     work_description: 距离月入0.01k也就还差一个大佬带我~
-    offduty_img: https://img.shields.io/badge/天亮了-我在宇宙中-blue?style=flat&labelColor=87CEFA&color=ffffff
+    offduty_img: https://blog.httple.net/T.png
     offduty_description: 下班了就该开开心心的玩耍，嘿嘿~
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
