@@ -28,17 +28,17 @@ nav:
   menu:
     - title: 网页
       item:
-        - name: 个人主页
+        - name: 主页
           link: https://blog.httple.net/
           icon: https://b2.190823.xyz/img/weblogo.png
-        - name: 博客
-          link: https://blog.blog.httple.net/
-          icon: https://b2.190823.xyz/img/weblogo.png
-    - title: 项目
-      item:
-        - name: OurWorld
-          link: https://blog.httple.net
-          icon: /img/ow.png
+        #- name: 博客
+        #  link: https://blog.blog.httple.net/
+        #  icon: https://b2.190823.xyz/img/weblogo.png
+   # - title: 项目
+     # item:
+        #- name: OurWorld
+        #  link: https://blog.httple.net
+        #  icon: /img/ow.png
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
 mourn:
