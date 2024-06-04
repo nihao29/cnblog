@@ -351,7 +351,7 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: https://blog-waline-service.wuyuan.dev # Waline server address url
+  serverURL: https://blog-app-cn-pl.httple.net # Waline server address url
   bg:  # waline background
   pageview: false
   meta: false # 归属地, 操作系统 前是否显示图标
