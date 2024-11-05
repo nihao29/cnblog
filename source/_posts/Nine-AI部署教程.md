@@ -2,11 +2,13 @@
 abbrlink: ''
 categories:
 - - AI
+cover: ''
 date: '2024-05-31T14:38:31.739689+08:00'
+excerpt: Nine-Ai部署教程 欢迎大家使用中转API，已配置NineAI全模型 准备⼯作： 1.⼀个最低1...
 tags:
 - AI
 title: Nine-AI部署教程
-updated: '2024-05-31T14:42:00.128+08:00'
+updated: '2024-11-05T22:51:08.383+08:00'
 ---
 # Nine-Ai部署教程
 
