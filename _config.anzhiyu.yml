@@ -25,12 +25,23 @@ nav:
   enable: true
   travelling: false
   clock: false
-  menu:
+    menu:
     - title: 网页
       item:
-        - name: 主页
-          link: https://blog.httple.net/
-          icon: https://blog.httple.net/sitelogo.png
+        - name: 永恒订阅
+          link: https://vip.tcip.top/v2ray
+          icon: /img/favicon.ico
+        - name: 部落世界
+          link: https://t.me/tciptops
+          icon: /img/favicon.ico
+    - title: 项目
+      item:
+        - name: TcIp图床
+          link: https://tc.tcip.top/
+          icon: https://image.anheyu.com/favicon.ico
+        - name: 缩址服务
+          link: https://vip.tcip.top/
+          icon: https://image.anheyu.com/favicon.ico
         #- name: 博客
         #  link: https://blog.blog.httple.net/
         #  icon: https://b2.190823.xyz/img/weblogo.png
