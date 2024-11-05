@@ -1,17 +1,17 @@
 ---
 abbrlink: ''
+ai: CloudFlare SAAS(cname) 接入网站域名 CloudFlare SAAS...
 categories:
 - - CloudFlare
 - - SAAS
 cover: https://www.baota.me/usr/uploads/2024/03/191983650.png
 date: '2024-11-05T20:36:57.609024+08:00'
-excerpt: CloudFlare SAAS(cname) 接入网站域名 CloudFlare SAAS，简单来说是为了给自助建站类似的网站，而提供的用户自定义域名接入的功能。 比如您做一个系统，可以给用户开通分站等功能，您希望通过api的方式将您的用户自己的域名解析到CloudFlare当中，而不是直接解析到源站。 考虑到本文章是为了让大家使用自选IP,因此在思路上将不会以上述分站的逻辑来解释说明。 准备事项...
 tags:
 - CloudFlare
 - cname
 - 域名
 title: CloudFlare SAAS(cname) 接入网站域名
-updated: '2024-11-05T20:41:54.754+08:00'
+updated: '2024-11-05T23:20:11.700+08:00'
 ---
 # CloudFlare SAAS(cname) 接入网站域名
 
