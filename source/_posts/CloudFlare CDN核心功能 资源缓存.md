@@ -5,16 +5,16 @@ categories:
 - - 资源缓冲
 cover: https://www.baota.me/usr/uploads/2024/03/1989952620.png
 date: '2024-11-05T20:59:46.214156+08:00'
-excerpt: CloudFlare CDN核心功能 资源缓存 简单介绍 资源缓存功能是CDN核心功能，也是加速的关...
+excerpt: 最新CloudFlare CDN核心功能 资源缓存 简单介绍 资源缓存功能是CDN核心功能，也是加速...
 tags:
 - CloudFlare
 - CDN
 - 缓冲
 - 加速
-title: CloudFlare CDN核心功能 资源缓存
-updated: '2024-11-05T22:38:52.180+08:00'
+title: 最新CloudFlare CDN核心功能 资源缓存
+updated: '2024-11-05T22:40:02.736+08:00'
 ---
-# CloudFlare CDN核心功能 资源缓存
+# 最新CloudFlare CDN核心功能 资源缓存
 
 #### 简单介绍
 
