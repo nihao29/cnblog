@@ -1,5 +1,6 @@
 ---
 abbrlink: 节点实现自选优选ip
+ai: 简单介绍 原以为pages跟workers是一样的，创建了个pages项目看了一下，有点类...
 categories:
 - - CloudFlare Pages
 - - 节点
@@ -14,7 +15,7 @@ tags:
 - 提速
 - 国内加速
 title: CloudFlare Pages 实现自选优选ip
-updated: '2024-11-05T20:51:57.364+08:00'
+updated: '2024-11-05T23:18:56.218+08:00'
 ---
 #### 简单介绍
 
