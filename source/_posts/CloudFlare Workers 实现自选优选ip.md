@@ -8,14 +8,15 @@ excerpt: CloudFlare Workers 实现自选优选ip 简单介绍 CloudFlare Wo
 tags:
 - workers
 title: CloudFlare Workers 实现自选优选ip
-updated: '2024-11-05T21:05:46.835+08:00'
+updated: '2024-11-05T21:29:29.160+08:00'
 ---
 # CloudFlare Workers 实现自选优选ip
-
 
 #### 简单介绍
 
 CloudFlare Workers优选还是挺简单的，NS接入的也可以实现优选倒是我没想到。
+
+![https://tc.tcip.top/file/1730813370336_image.png](https://tc.tcip.top/file/1730813370336_image.png)
 
 #### 准备工作
 
