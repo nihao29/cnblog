@@ -1,16 +1,17 @@
 ---
 abbrlink: ''
-ai: '                                             ...'
+ai: 在现代 Web 开发中，部署个人博客已经变得相当简单，尤其是像 Vercel 这样的无服务...
 categories:
 - - 优选域名
-cover: ''
+cover: https://root.tcip.top/edit.html?file=source%2F_posts%2Fvercel%E4%BC%98%E9%80%89IP%E5%8A%A0%E9%80%9Fvercel%E9%A1%B9%E7%9B%AE%20CDN.md&postname=vercel%E4%BC%98%E9%80%89IP%E5%8A%A0%E9%80%9Fvercel%E9%A1%B9%E7%9B%AE%20CDN
 date: '2024-11-06T01:03:12.540436+08:00'
 tags:
 - CDN
 title: vercel优选IP加速vercel项目
-updated: '2024-11-06T01:17:10.556+08:00'
+updated: '2024-11-06T01:19:00.739+08:00'
 ---
-<div id="contentContainer" class="contentBody ms-column-type-narrow" role="main">                         <!-- Main header containing title, dominant image and meta data -->                 <div class="header_container" id="__reading__mode__header__container">                     <div id="header_content_id" class="header_content">                        <h1 class="__reading__mode__extracted__title" id="mainContentTitle"></h1>                        <h4 class="__reading__mode__extracted__subtitle c0010" id="subtitle"></h4>                        <div class="__reading__mode__bylineentries c0010">                            <div class="__reading__mode__extracted__bylineentry c0010" id="author"></div>                            <div class="__reading__mode__extracted__bylineentry c0010" id="metaData">                                <a id="source"></a>                                <span id="metaDivider" class="c0010">|</span>                                <span class="__reading__mode__extracted__date" id="publishdate"></span>                            </div>                        </div>                    </div>                </div>                <div class="__reading__mode__mainbody" id="__reading__mode__mainbody__id">                    <div class="__reading__mode__extracted__article__body" id="mainContainer"><div><p>在现代 Web 开发中，部署个人博客已经变得相当简单，尤其是像 Vercel 这样的无服务器平台，它提供了快速、简便的部署体验。除了基本的博客部署，许多人还希望将博客绑定自定义域名，并通过 vercel 优选 IP 提升访问速度或增加一些额外的功能。</p>
+在现代 Web 开发中，部署个人博客已经变得相当简单，尤其是像 Vercel 这样的无服务器平台，它提供了快速、简便的部署体验。除了基本的博客部署，许多人还希望将博客绑定自定义域名，并通过 vercel 优选 IP 提升访问速度或增加一些额外的功能。</p>
+
 <p>本文将带你一步步实现以下目标：</p>
 <ol>
 <li>使用 Vercel 部署博客。</li>
@@ -59,3 +60,4 @@ updated: '2024-11-06T01:17:10.556+08:00'
 <p><a href="https://www.kejiland.com/" rel="noopener">https://www.kejiland.com</a></p>
 <p><a href="https://images.2024921.xyz/images/202410252048287.png"><img class="entered loaded c008" onerror="this.onerror=null,this.src="/img/404.jpg"" src="https://images.2024921.xyz/images/202410252048287.png"></a></p>
 <p><a href="https://images.2024921.xyz/images/202410252050056.png"><img src="https://images.2024921.xyz/images/202410252050056.png" class="entered loaded c008" onerror="this.onerror=null,this.src="/img/404.jpg""></a></p></li></ol></div></div>                    <div id="__reading__mode__content_end_mark_container_id">                    <span id="content_end_mark_icon_id" style="display: block;"></span>                    </div>                    <div id="pages_pending_container_id" class="pages_pending_container_class">                        <progress class="progress_pages_pending c0010">                    </progress></div>                    <div class="__reading__mode__copyright c0010" id="copyright"></div>                </div>             </div>
+
