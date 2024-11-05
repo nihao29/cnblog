@@ -8,14 +8,13 @@ categories:
 - - 国内加速
 cover: https://www.baota.me/usr/uploads/2024/10/2517293530.png
 date: '2024-11-05T16:56:50.011540+08:00'
-excerpt: 简单介绍 原以为pages跟workers是一样的，创建了个pages项目看了一下，有点类似于早期的...
 tags:
 - 节点
 - CloudFlare Pages
 - 提速
 - 国内加速
 title: CloudFlare Pages 实现自选优选ip
-updated: '2024-11-05T23:18:56.218+08:00'
+updated: '2024-11-05T23:19:53.652+08:00'
 ---
 #### 简单介绍
 
