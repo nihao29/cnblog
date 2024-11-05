@@ -12,10 +12,9 @@ tags:
 - 缓冲
 - 加速
 title: CloudFlare CDN核心功能 资源缓存
-updated: '2024-11-05T21:01:10.210+08:00'
+updated: '2024-11-05T22:36:15.412+08:00'
 ---
 # CloudFlare CDN核心功能 资源缓存
-
 
 #### 简单介绍
 
