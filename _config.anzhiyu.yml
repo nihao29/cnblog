@@ -1208,7 +1208,7 @@ greetingBox:
 post_head_ai_description:
   enable: true
   gptName: 悟小元
-  mode: tianli # 默认模式 可选值: tianli/local
+  mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
   btnLink: https://afdian.net/a/wuyuandev
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
