@@ -25,7 +25,7 @@ nav:
   enable: true
   travelling: false
   clock: false
-    menu:
+  menu:
     - title: 网页
       item:
         - name: 永恒订阅
