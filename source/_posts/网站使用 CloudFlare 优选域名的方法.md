@@ -1,17 +1,18 @@
 ---
-abbrlink: CloudFlare 优选域名
+abbrlink: ''
 categories:
-- - 域名
-- - 教程
-cover: https://www.baota.me/usr/uploads/2024/03/607071051.png
-date: '2024-11-05T16:53:12.343612+08:00'
-excerpt: 简单介绍 由于CloudFlare官方IP是泛播路由，意味着同一个IP在不同地区不同运营商所链接的机房是不同的。 因此公共优选域名并不适合非网站用途，如果需要建议使用CloudflareSpeedTest项目自行测试本地最优的IP地址。 准备事项 使用本教程前请先查看文章 CloudFlare SAAS(cname) 接入网站域名 使用SAAS功能接入后再查看本教程操作。 优选域名 由于CNAME...
+- - 优选域名
+cover: https://www.baota.me/usr/uploads/2024/03/2389097122.png
+date: '2024-11-05T20:53:33.476035+08:00'
+excerpt: 网站使用 CloudFlare 优选域名的方法 简单介绍 由于CloudFlare官方IP是泛播路由...
 tags:
-- 优选
-- 加速
-title: 网站提速使用 CloudFlare 优选域名的方法
-updated: '2024-11-05T16:56:13.527+08:00'
+- CloudFlare
+title: 网站使用 CloudFlare 优选域名的方法
+updated: '2024-11-05T20:55:15.048+08:00'
 ---
+# 网站使用 CloudFlare 优选域名的方法
+
+
 #### 简单介绍
 
 由于CloudFlare官方IP是泛播路由，意味着同一个IP在不同地区不同运营商所链接的机房是不同的。
@@ -19,7 +20,7 @@ updated: '2024-11-05T16:56:13.527+08:00'
 
 #### 准备事项
 
-使用本教程前请先查看文章 [CloudFlare SAAS(cname) 接入网站域名](https://www.baota.me/post-413.html) 使用SAAS功能接入后再查看本教程操作。
+使用本教程前请先查看文章 [CloudFlare SAAS(cname) 接入网站域名]([CloudFlare SAAS(cname) 接入网站域名 | TCIP的窝窝](https://vercel.blog.tcip.top/2024/11/05/CloudFlare%20SAAS(cname)%20%E6%8E%A5%E5%85%A5%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D/)) 使用SAAS功能接入后再查看本教程操作。
 
 #### 优选域名
 
