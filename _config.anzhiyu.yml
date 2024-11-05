@@ -419,10 +419,11 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
-  region:
-  visitor: false
+  envId: https://liaotians.tcip.top/
+  region: ap-guangdong
+  visitor: true
   option:
+  card_post_count: true
 
 # Artalk
 # https://artalk.js.org/guide/frontend/config.html
