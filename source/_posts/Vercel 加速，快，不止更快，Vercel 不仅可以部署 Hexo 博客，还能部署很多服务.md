@@ -1,5 +1,6 @@
 ---
 abbrlink: Vercel CDN:利用CNAME负载均衡实现的Vercel加速CDN
+ai: ' **¶**写在前面 Vercel 不仅可以部署 Hexo 博客，还能部署很多服务。 境内...'
 categories:
 - - 优选域名
 - - CDN
@@ -11,7 +12,7 @@ tags:
 - Vercel
 - CDN
 title: Vercel 加速，快，不止更快！Vercel 不仅可以部署 Hexo 博客，还能部署很多服务
-updated: '2024-11-05T20:25:03.579+08:00'
+updated: '2024-11-05T23:20:47.560+08:00'
 ---
 ![https://tc.tcip.top/file/1730809495059_image.png](https://tc.tcip.top/file/1730809495059_image.png)
 
