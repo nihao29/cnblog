@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 天亮的小站
+title: TCIP的窝窝
 subtitle: '我在宇宙中'
 description: '我在宇宙中'
 keywords:
-author: 天亮
+author: TCIP
 language: zh-CN
 timezone: ''
 search:
@@ -16,7 +16,7 @@ search:
   content: true
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.httple.net
+url: https://www.tcip.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
