@@ -1,14 +1,16 @@
 ---
 abbrlink: ''
-ai: 在现代 Web 开发中，部署个人博客已经变得相当简单，尤其是像 Vercel 这样的无服务...
+ai: 在现代 Web 开发中，部署个人博客已经变得相当简单，尤其是像 Vercel 这样的无服务器平台，它提供了快速、简便的部署体验。除了基本的博客部署，许多人还希望将博客绑定自定义域名，并通过
+  vercel 优选 IP 提升访问速度或增加一些额外的功能。 本文将带你一步步实现以下目标：  使用 Vercel 部署博客。 将博客绑定到自定义域名。 通过
+  verce...
 categories:
 - - 优选域名
-cover: https://root.tcip.top/edit.html?file=source%2F_posts%2Fvercel%E4%BC%98%E9%80%89IP%E5%8A%A0%E9%80%9Fvercel%E9%A1%B9%E7%9B%AE%20CDN.md&postname=vercel%E4%BC%98%E9%80%89IP%E5%8A%A0%E9%80%9Fvercel%E9%A1%B9%E7%9B%AE%20CDN
+cover: https://images.2024921.xyz/images/202410252043889.png
 date: '2024-11-06T01:03:12.540436+08:00'
 tags:
 - CDN
 title: vercel优选IP加速vercel项目
-updated: '2024-11-06T13:03:42.077+08:00'
+updated: '2024-11-06T16:02:48.250+08:00'
 ---
 在现代 Web 开发中，部署个人博客已经变得相当简单，尤其是像 Vercel 这样的无服务器平台，它提供了快速、简便的部署体验。除了基本的博客部署，许多人还希望将博客绑定自定义域名，并通过 vercel 优选 IP 提升访问速度或增加一些额外的功能。</p>
 
