@@ -119,7 +119,6 @@ docsearch:
   appId: 7IM4MO9K1U
   apiKey: 488ed946610ba1a530d873155b2e996a
   adminApiKey: 62391eb6028de85f60a993db6d5c03f3
-  indexName: blog
   option:
 
 # Local search
@@ -1301,8 +1300,8 @@ CDN:
     # ai_abstract_js:
     # people_js:
     # local_search:
-      algolia_js:
-      algolia_search:
+    #  algolia_js:
+    # algolia_search:
     # instantsearch:
     # docsearch_js:
     # docsearch_css:
