@@ -808,7 +808,7 @@ subtitle:
   source: 1
   # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
   sub:
-    - 高速订阅器: api.tcip.top
+    -  api.tcip.top
 # Loading Animation (加载动画)
 preloader:
   enable: true
@@ -1078,8 +1078,8 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 知识创造一切
-  subTitle: tcip
+  title: aip.tcip.top
+  subTitle: 高速订阅器
   siteText: www.tcip.top
   category:
     - name: 开发
