@@ -1078,7 +1078,7 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: aip.tcip.top
+  title: api.tcip.top
   subTitle: 高速订阅器
   siteText: www.tcip.top
   category:
