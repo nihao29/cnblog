@@ -808,7 +808,7 @@ subtitle:
   source: 1
   # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
   sub:
-    - 高速订阅器: api.tcip.top_img
+    - 高速订阅器: api.tcip.top
 # Loading Animation (加载动画)
 preloader:
   enable: true
