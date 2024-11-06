@@ -10,7 +10,7 @@ date: '2024-11-06T13:48:37.172409+08:00'
 tags:
 - 图床
 title: 使用PicGo + GitHub 搭建 Obsidian 图床
-updated: '2024-11-06T13:54:03.769+08:00'
+updated: '2024-11-06T13:54:43.063+08:00'
 ---
 # 使用PicGo + GitHub 搭建 Obsidian 图床
 
