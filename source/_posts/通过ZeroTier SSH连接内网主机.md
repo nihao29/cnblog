@@ -9,10 +9,9 @@ date: '2024-11-06T15:16:02.883691+08:00'
 tags:
 - 内网
 title: 通过ZeroTier SSH连接内网主机
-updated: '2024-11-06T15:16:44.522+08:00'
+updated: '2024-11-06T15:50:55.476+08:00'
 ---
 # 通过ZeroTier SSH连接内网主机
-
 
 ![https://cdn.haoyep.com/gh/leegical/Blog_img/cdnimg/202401171459764.png](https://cdn.haoyep.com/gh/leegical/Blog_img/cdnimg/202401171459764.png "一些内网的主机可以访问公网，但是关闭了公网SSH端口。可以通过ZeroTier搭建VPC，让内网主机与client位于同一虚拟局域网中，实现SSH连接。")
 
@@ -72,7 +71,6 @@ zerotier官网：[https://www.zerotier.com/](https://www.zerotier.com/)
 #### 3.3.1 安装
 
 输入以下命令在ubuntu中安装zerotier：
-
 
 | `1`<br/>`2`<br/>`3`<br/>`4`<br/>`5`<br/>`6`<br/> | `curl -s https://install.zerotier.com | sudo bash`<br/>`## 设置开机自启`<br/>`sudo systemctl enable zerotier-one`<br/>`## 启动服务`<br/>`sudo systemctl start zerotier-one` |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
