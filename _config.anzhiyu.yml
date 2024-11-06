@@ -104,7 +104,7 @@ author_status:
 algolia_search:
   enable: true
   hits:
-    per_page: 6
+    per_page: 2
   tags:
       - 前端
       - Hexo
