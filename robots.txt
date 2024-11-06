@@ -1,3 +1,4 @@
+# Algolia-Crawler-Verif: 4AAEEC2AD00D8D1A
 User-agent: GPTBot
 Disallow: /
 User-agent: *
