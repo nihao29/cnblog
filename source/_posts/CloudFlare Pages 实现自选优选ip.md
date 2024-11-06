@@ -1,11 +1,15 @@
 ---
 abbrlink: 节点实现自选优选ip
-ai: 简单介绍 原以为pages跟workers是一样的，创建了个pages项目看了一下，有点类...
+ai: "简单介绍 原以为pages跟workers是一样的，创建了个pages项目看了一下，有点类似于早期的虚拟主机(空间)。优选的话域名过了验证，改解析到优选域名上即可。\
+  \ CloudFlare公共Cname域名 网站使用 CloudFlare 优选域名的教程 地址名称\t协议版本\t维护周期\t地址状态\t备注说明 speed.marisalnc.com\t\
+  4\t1000ip..."
 categories:
 - - CloudFlare Pages
 - - 节点
 - - 教程
 - - 国内加速
+- - 想法
+- - 开发
 cover: https://www.baota.me/usr/uploads/2024/10/2517293530.png
 date: '2024-11-05T16:56:50.011540+08:00'
 tags:
@@ -14,7 +18,7 @@ tags:
 - 提速
 - 国内加速
 title: CloudFlare Pages 实现自选优选ip
-updated: '2024-11-05T23:19:53.652+08:00'
+updated: '2024-11-06T16:29:53.640+08:00'
 ---
 #### 简单介绍
 
