@@ -4,12 +4,13 @@ ai: Follow：新一代RSS订阅工具，让阅读更有趣！  嘿，各位信�
   Follow 的神奇世界吧！  🎭 什么是 Follow？ Follow 是一个强大的个人信息聚合平台，它不仅仅是一个简单的 RSS ...
 categories:
 - - Follow
+- - 生活
 cover: https://imgs.huluohu.com/2024/09/30/17277094171937.jpg
 date: '2024-11-06T13:33:30.918139+08:00'
 tags:
 - Follow
 title: Follow：新一代RSS订阅工具，让阅读更有趣！
-updated: '2024-11-06T13:35:20.137+08:00'
+updated: '2024-11-06T16:36:22.247+08:00'
 ---
 # Follow：新一代RSS订阅工具，让阅读更有趣！
 
