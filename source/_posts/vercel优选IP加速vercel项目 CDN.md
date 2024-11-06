@@ -8,7 +8,7 @@ date: '2024-11-06T01:03:12.540436+08:00'
 tags:
 - CDN
 title: vercel优选IP加速vercel项目
-updated: '2024-11-06T13:00:25.969+08:00'
+updated: '2024-11-06T13:03:42.077+08:00'
 ---
 在现代 Web 开发中，部署个人博客已经变得相当简单，尤其是像 Vercel 这样的无服务器平台，它提供了快速、简便的部署体验。除了基本的博客部署，许多人还希望将博客绑定自定义域名，并通过 vercel 优选 IP 提升访问速度或增加一些额外的功能。</p>
 
@@ -59,4 +59,5 @@ updated: '2024-11-06T13:00:25.969+08:00'
 <li><p>vercel 自定义加速域名效果</p>
 <p><a href="https://www.kejiland.com/" rel="noopener">https://www.kejiland.com</a></p>
 <p><a href="https://images.2024921.xyz/images/202410252048287.png"><img class="entered loaded c008" onerror="this.onerror=null,this.src="/img/404.jpg"" src="https://images.2024921.xyz/images/202410252048287.png"></a></p>
-<p><a href="https://images.2024921.xyz/images/202410252050056.png"><img src="https://images.2024921.xyz/images/202410252050056.png" class="entered loaded c008" onerror="this.onerror=null,this.src="/img/404.jpg""></a></p></li></ol></div></div>                    <div id="__reading__mode__content_end_mark_container_id">                    <span id="content_end_mark_icon_id" style="display: block;"></span>                    </div>                    <div id="pages_pending_container_id" class="pages_pending_container_class">                        <progress class="progress_pages_pending c0010">                    </progress></div>                    <div class="__reading__mode__copyright c0010" id="copyright"></div>                </div>
+<p><a href="https://images.2024921.xyz/images/202410252050056.png"><img src="https://images.2024921.xyz/images/202410252050056.png" class="entered loaded c008" onerror="this.onerror=null,this.src="/img/404.jpg""></a></p>
+
