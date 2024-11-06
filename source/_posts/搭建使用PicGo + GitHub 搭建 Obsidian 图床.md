@@ -10,7 +10,7 @@ date: '2024-11-06T13:56:59.414702+08:00'
 tags:
 - 搭建图床
 title: 搭建使用PicGo + GitHub 搭建 Obsidian 图床
-updated: '2024-11-06T13:58:22.084+08:00'
+updated: '2024-11-06T14:00:19.309+08:00'
 ---
 ![https://cdn.haoyep.com/gh/leegical/Blog_img/cdnimg/202401171458581.png](https://cdn.haoyep.com/gh/leegical/Blog_img/cdnimg/202401171458581.png "使用 PicGo + GitHub 搭建 Obsidian 图床，剪贴板自动上传图片，稳定可靠")
 
