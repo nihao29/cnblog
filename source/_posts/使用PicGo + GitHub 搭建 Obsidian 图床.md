@@ -10,7 +10,7 @@ date: '2024-11-06T13:48:37.172409+08:00'
 tags:
 - 图床
 title: 使用PicGo + GitHub 搭建 Obsidian 图床
-updated: '2024-11-06T13:49:30.930+08:00'
+updated: '2024-11-06T13:54:03.769+08:00'
 ---
 # 使用PicGo + GitHub 搭建 Obsidian 图床
 
@@ -109,4 +109,3 @@ Obsidian [官网下载链接](https://obsidian.md/download)
 ## 4 参考文章
 
 [  ](https://segmentfault.com/a/1190000041076406 "一劳永逸，使用 PicGo + GitHub 搭建个人图床工具")
-
