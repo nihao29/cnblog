@@ -12,7 +12,7 @@ tags:
 - Cloudflare
 - Github
 title: 熟练使用右上角的搜索和Ctrl+F快速定位问题解答
-updated: '2024-11-06T16:12:29.912+08:00'
+updated: '2024-11-06T16:16:47.712+08:00'
 ---
 ## **熟练使用右上角的搜索和`Ctrl+F`快速定位问题解答**
 
@@ -42,7 +42,6 @@ A：可以尝试使用**Base64订阅地址**去导入。
 ### Q：**OpenClash**呢?
 
 A：可以尝试使用**Clash订阅地址**去导入。
-
 
 ### Q：Pages部署时，构建日志提示 ✘ [ERROR] No Pages config file found？
 
