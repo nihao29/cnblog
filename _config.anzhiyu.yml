@@ -100,15 +100,18 @@ author_status:
 # search (搜索)
 # see https://blog.blog.httple.net/posts/c27d.html#搜索系统
 # --------------------------------------
+algolia:
+  applicationID: 7IM4MO9K1U
+  apiKey: 488ed946610ba1a530d873155b2e996a
+  indexName: hexo
+  fields:
+    - title
+    - content
+    - url
+  debug: false
+  concurrent: 2
 
-# Algolia search
-algolia_search:
-  enable: false
-  hits:
-    per_page: 6
-  tags:
-    # - 前端
-    # - Hexo
+
 
 # Docsearch
 # Apply and Docs: see https://docsearch.algolia.com/
@@ -1299,8 +1302,8 @@ CDN:
     # ai_abstract_js:
     # people_js:
     # local_search:
-    # algolia_js:
-    # algolia_search:
+      algolia_js:
+      algolia_search:
     # instantsearch:
     # docsearch_js:
     # docsearch_css:
