@@ -2,12 +2,14 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+
+
 # Site
-title: 天亮的小站
+title: TCIP的窝窝
 subtitle: '我在宇宙中'
 description: '我在宇宙中'
 keywords:
-author: 天亮
+author: TCIP
 language: zh-CN
 timezone: ''
 search:
@@ -16,7 +18,7 @@ search:
   content: true
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.httple.net
+url: https://www.tcip.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -143,7 +145,7 @@ envelope_comment:
     - 有什么想说的？
     - 有什么想吐槽的？
     - 哪怕是有什么想吃的，都可以告诉我哦~
-  bottom: 知识创造一切 #仅支持单行文本
+  bottom: api.tcip.top #仅支持单行文本
   height: #1024px，信封划出的高度
   path: #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
   front_matter: #【可选】comments页面的 front_matter 配置
