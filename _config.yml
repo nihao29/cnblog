@@ -2,21 +2,6 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-algolia:
-  appId: "7IM4MO9K1U"
-  apiKey: "488ed946610ba1a530d873155b2e996a"
-  adminApiKey: "62391eb6028de85f60a993db6d5c03f3"
-  chunkSize: 5000
-  indexName: "hexo"
-  fields:
-    - content:strip:truncate,0,200
-    - excerpt:strip
-    - gallery
-    - permalink
-    - photos
-    - slug
-    - tags
-    - title
 
 
 # Site
