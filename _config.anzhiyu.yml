@@ -628,8 +628,7 @@ google_adsense:
 
 # Verification (站长验证)
 # --------------------------------------
- <meta name="algolia-site-verification" content="4AAEEC2AD00D8D1A" />
-                    <title>Algolia Verification</title>
+
 site_verification:
   - name: google-site-verification
     content: xxx
