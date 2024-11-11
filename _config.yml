@@ -107,8 +107,6 @@ theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
 # 追番插件
 # https://github.com/HCLonely/hexo-bilibili-bangumi
 bangumi: # 追番设置
