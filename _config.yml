@@ -154,3 +154,8 @@ envelope_comment:
     comments: true
     top_img: false
     type: envelope
+deploy:
+  type: git
+  repository: git@github.com:nihao29/nihao29.github.io.git
+  branch: main
+
